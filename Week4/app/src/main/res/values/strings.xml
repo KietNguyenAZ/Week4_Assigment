@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">OnBoarding</string>
+    <string name="e_mail">E-mail</string>
+    <string name="password">Password</string>
+    <string name="full_name">Full Name</string>
+    <string name="your_e_mail">Your e-mail</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="prelookstudio_gmail_com">prelookstudio@gmail.com</string>
+    <string name="confirm">Confirm</string>
+    <string name="cancel">Cancel</string>
+    <string name="update_data">Update data</string>
+    <string name="change_information">Change information</string>
+</resources>

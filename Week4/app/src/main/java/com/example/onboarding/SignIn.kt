@@ -48,7 +48,7 @@ class SignIn:AppCompatActivity(){
             if(isSuccess){
 
                 Toast.makeText(this, "Success", Toast.LENGTH_SHORT).show()
-                val intent = Intent(this, RestaurantMainActivity::class.java)
+                val intent = Intent(this, RestaurantRecyclerView::class.java)
                 startActivity(intent)
 
             }

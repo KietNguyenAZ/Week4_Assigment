@@ -1,0 +1,275 @@
+[
+  {
+    "name":"Loya Organic",
+    "address":"4284 Orchard Lake Rd",
+    "delivery_charge": 5,
+    "image":"https://loyaorganic.com/wp-content/uploads/thegem-logos/logo_a1af8a566eb4e33346c46c196b72b0f2_1x.png",
+
+    "hours":{
+      "Sunday":"11:00 AM - 7:00 PM",
+      "Monday":"10:00 AM - 9:00 PM",
+      "Tuesday":"10:00 AM - 10:00 PM",
+      "Wednesday":"10:00 AM - 11:00 PM",
+      "Thursday":"10:00 AM - 10:00 PM",
+      "Fray":"10:00 AM - 11:00 PM",
+      "Saturday":"10:00 AM - 2:00 PM"
+    },
+    "menus": [
+      {
+        "name": "Pressure cooker refried beans",
+        "price": 2.99,
+        "url": "https://apipics.s3.amazonaws.com/mexican_api/1.jpg"
+      },
+      {
+        "name": "Black bean chilli soup with corn dumplings",
+        "price": 3.99,
+        "url": "https://apipics.s3.amazonaws.com/mexican_api/2.jpg"
+      },
+      {
+        "name": "Fishcake tacos",
+        "price": 2.99,
+        "url": "https://apipics.s3.amazonaws.com/mexican_api/3.jpg"
+      },
+      {
+        "name": "Black bean and chicken burritos",
+        "price": 3.99,
+        "url": "https://apipics.s3.amazonaws.com/mexican_api/4.jpg"
+      },
+      {
+        "name": "Pork tacos with sweetcorn and feta",
+        "price": 2.99,
+        "url": "https://apipics.s3.amazonaws.com/mexican_api/5.jpg"
+      },
+      {
+        "name": "Taco slaw with pink pickled onions",
+        "price": 5.99,
+        "url": "https://apipics.s3.amazonaws.com/mexican_api/6.jpg"
+      },
+      {
+        "name": "Smoky chipotle tofu with tomatoes and avocado",
+        "price": 2.99,
+        "url": "https://apipics.s3.amazonaws.com/mexican_api/7.jpg"
+      },
+      {
+        "name": "Chilaquiles with fresh tomatillo salsa",
+        "price": 3.99,
+        "url": "https://apipics.s3.amazonaws.com/mexican_api/8.jpg"
+      },
+      {
+        "name": "Chipotle baked eggs",
+        "price": 9.99,
+        "url": "https://apipics.s3.amazonaws.com/mexican_api/9.jpg"
+      },
+      {
+        "name": "Venison tacos with grilled spring onions and peanut salsa",
+        "price": 8.99,
+        "url": "https://apipics.s3.amazonaws.com/mexican_api/10.jpg"
+      }
+    ]
+  },
+  {
+    "name":"Little Caesars",
+    "address":"6078 W Maple Rd",
+    "delivery_charge": 4,
+    "image":"https://vnfranchise.vn/wp-content/uploads/2018/11/Little-caesars-pizza.jpg",
+
+    "hours":{
+      "Sunday":"11:00 AM - 7:00 PM",
+      "Monday":"10:00 AM - 10:00 PM",
+      "Tuesday":"10:00 AM - 10:00 PM",
+      "Wednesday":"10:00 AM - 8:00 PM",
+      "Thursday":"10:00 AM - 10:00 PM",
+      "Fray":"10:00 AM - 10:00 PM",
+      "Saturday":"9:00 AM - 1:00 PM"
+    },
+    "menus": [
+      {
+        "name": "Easy huevos rancheros",
+        "price": 8.99,
+        "url": "https://apipics.s3.amazonaws.com/mexican_api/11.jpg"
+      },
+      {
+        "name": "Turkey pozole",
+        "price": 4.99,
+        "url": "https://apipics.s3.amazonaws.com/mexican_api/12.jpg"
+      },
+      {
+        "name": "Mexican-style barbecued beef brisket with quick-pickled onions",
+        "price": 8.99,
+        "url": "https://apipics.s3.amazonaws.com/mexican_api/13.jpg"
+      },
+      {
+        "name": "Frozen mango margarita",
+        "price": 8.99,
+        "url": "https://apipics.s3.amazonaws.com/mexican_api/14.jpg"
+      },
+      {
+        "name": "Raspberry margarita",
+        "price": 6.99,
+        "url": "https://apipics.s3.amazonaws.com/mexican_api/15.jpg"
+      },
+      {
+        "name": "Enchiladas verdes",
+        "price": 3.99,
+        "url": "https://apipics.s3.amazonaws.com/mexican_api/16.jpg"
+      },
+      {
+        "name": "Margarita cheesecake with tequila strawberries",
+        "price": 5.99,
+        "url": "https://apipics.s3.amazonaws.com/mexican_api/17.jpg"
+      },
+      {
+        "name": "Bolognese quesadilla",
+        "price": 4.99,
+        "url": "https://apipics.s3.amazonaws.com/mexican_api/18.jpg"
+      },
+      {
+        "name": "Sausage burritos with pea and avocado guacamole",
+        "price": 1.99,
+        "url": "https://apipics.s3.amazonaws.com/mexican_api/19.jpg"
+      },
+      {
+        "name": "Taco traybake",
+        "price": 8.99,
+        "url": "https://apipics.s3.amazonaws.com/mexican_api/20.jpg"
+      }
+    ]
+  },
+
+
+  {
+    "name":"Stage Deli",
+    "address":"6873 Orchard Lake Rd",
+    "delivery_charge": 5,
+    "image":"shorturl.at/hn167",
+    "hours":{
+      "Sunday":"11:00 AM - 7:00 PM",
+      "Monday":"10:00 AM - 10:00 PM",
+      "Tuesday":"10:00 AM - 10:00 PM",
+      "Wednesday":"10:00 AM - 8:00 PM",
+      "Thursday":"10:00 AM - 10:00 PM",
+      "Fray":"10:00 AM - 10:00 PM",
+      "Saturday":"9:00 AM - 2:00 PM"
+    },
+    "menus": [
+      {
+        "name": "Slow-cooked chipotle chicken",
+        "price": 7.49,
+        "url": "https://apipics.s3.amazonaws.com/mexican_api/21.jpg"
+      },
+      {
+        "name": "Beef burrito bowls",
+        "price": 5.49,
+        "url": "https://apipics.s3.amazonaws.com/mexican_api/22.jpg"
+      },
+      {
+        "name": "Classic margarita cocktail",
+        "price": 5.49,
+        "url": "https://apipics.s3.amazonaws.com/mexican_api/23.jpg"
+      },
+      {
+        "name": "Ensenada fish tacos",
+        "price": 3.49,
+        "url": "https://apipics.s3.amazonaws.com/mexican_api/24.jpg"
+      },
+      {
+        "name": "Tex-Mex enchilada bake",
+        "price": 1.49,
+        "url": "https://apipics.s3.amazonaws.com/mexican_api/25.jpg"
+      },
+      {
+        "name": "Scampi tacos with jalapeño tartare sauce and avocado",
+        "price": 6.49,
+        "url": "https://apipics.s3.amazonaws.com/mexican_api/26.jpg"
+      },
+      {
+        "name": "Crispy tacos with charred veg and refried beans",
+        "price": 5.49,
+        "url": "https://apipics.s3.amazonaws.com/mexican_api/27.jpg"
+      },
+      {
+        "name": "Slow-cooked chicken tinga tacos with pickled onions",
+        "price": 3.49,
+        "url": "https://apipics.s3.amazonaws.com/mexican_api/28.jpg"
+      },
+      {
+        "name": "Mexican chicken and red rice burrito bowls",
+        "price": 2.49,
+        "url": "https://apipics.s3.amazonaws.com/mexican_api/29.jpg"
+      },
+      {
+        "name": "Cornbread with Mexican-style salad",
+        "price": 5.49,
+        "url": "https://apipics.s3.amazonaws.com/mexican_api/30.jpg"
+      }
+    ]
+  },
+
+  {
+    "name":"Grand Azteca Mexican restaurant",
+    "address":"6041 Haggerty Rd",
+    "delivery_charge": 6,
+    "image":"https://www.granazteca.com/wp-content/uploads/2021/12/gran-azteca-mexican-logo.png",
+    "hours":{
+      "Sunday":"11:00 AM - 7:00 PM",
+      "Monday":"10:00 AM - 10:00 PM",
+      "Tuesday":"10:00 AM - 10:00 PM",
+      "Wednesday":"10:00 AM - 8:00 PM",
+      "Thursday":"10:00 AM - 10:00 PM",
+      "Fray":"10:00 AM - 10:00 PM",
+      "Saturday":"10:00 AM - 3:00 PM"
+    },
+    "menus": [
+      {
+        "name": "Sweet potato and black bean nachos",
+        "price": 5.49,
+        "url": "https://apipics.s3.amazonaws.com/mexican_api/31.jpg"
+      },
+      {
+        "name": "Za’atar-spiced lamb tacos",
+        "price": 4.49,
+        "url": "https://apipics.s3.amazonaws.com/mexican_api/32.jpg"
+      },
+      {
+        "name": "Perfect guacamole",
+        "price": 5.49,
+        "url": "https://apipics.s3.amazonaws.com/mexican_api/33.jpg"
+      },
+      {
+        "name": "Steak and pepper fajitas",
+        "price": 1.9,
+        "url": "https://apipics.s3.amazonaws.com/mexican_api/34.jpg"
+      },
+      {
+        "name": "Jalapeño, bacon and crispy potato frittata",
+        "price": 5.49,
+        "url": "https://apipics.s3.amazonaws.com/mexican_api/35.jpg"
+      },
+      {
+        "name": "Paloma cocktail",
+        "price": 6.49,
+        "url": "https://apipics.s3.amazonaws.com/mexican_api/36.jpg"
+      },
+      {
+        "name": "Mexican-style prawn rice with avocado salsa",
+        "price": 2.49,
+        "url": "https://apipics.s3.amazonaws.com/mexican_api/37.jpg"
+      },
+      {
+        "name": "Fish and chip tacos with pea guacamole",
+        "price": 4.49,
+        "url": "https://apipics.s3.amazonaws.com/mexican_api/38.jpg"
+      },
+      {
+        "name": "Sweet potato, pea and cheese quesadillas",
+        "price": 1.49,
+        "url": "https://apipics.s3.amazonaws.com/mexican_api/39.jpg"
+      },
+      {
+        "name": "Taco salad bowls with prawns",
+        "price": 5.49,
+        "url": "https://apipics.s3.amazonaws.com/mexican_api/40.jpg"
+      }
+    ]
+  }
+]
